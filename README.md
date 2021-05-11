@@ -3,7 +3,7 @@ Following the QuTech guidelines this public repository contains the processed da
 
 ---
 
-For figures 1, 2, 3, S1, S3, S6 the following Python 3.7+ scrip can be used to load the data:
+For figures 1, 2, 3, S1, S3, S6 the following Python 3.7+ script can be used to load the data:
 
 ```python
 from pathlib import Path
